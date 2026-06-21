@@ -18,7 +18,7 @@
 
 ## 📖 Tentang Repository Ini
 
-Halo, saya Nurahmi Tintyasusi,biasa dipanggil Rahmi Saya belajar Data Science untuk memenuhi SKS dalam perkuliahan. Repositori ini merupakan catatan praktikum, proyek akademik, dan portofolio personal saya untuk mata kuliah Data Science serta pengembangan perangkat lunak. Tujuan saya adalah membangun pemahaman mendalam mengenai alur kerja Data Science (eksplorasi data, preprocessing, hingga pemodelan) serta integrasinya dengan teknologi kecerdasan buatan (AI). Di dalam repositori ini, Anda akan menemukan berbagai notebook eksperimen, dataset pendukung, serta implementasi *tools* modern yang saya pelajari selama perkuliahan.
+Halo, saya Nurahmi Tintyasusi biasa dipanggil Rahmi. Saya belajar Data Science untuk memenuhi SKS dalam perkuliahan. Repositori ini merupakan catatan praktikum, proyek akademik, dan portofolio personal saya untuk mata kuliah Data Science serta pengembangan perangkat lunak. Tujuan saya adalah membangun pemahaman mendalam mengenai alur kerja Data Science (eksplorasi data, preprocessing, hingga pemodelan) serta integrasinya dengan teknologi kecerdasan buatan (AI). Di dalam repositori ini, Anda akan menemukan berbagai notebook eksperimen, dataset pendukung, serta implementasi *tools* modern yang saya pelajari selama perkuliahan.
 
 ---
 
@@ -54,7 +54,8 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 # Jalankan Jupyter
 jupyter notebook
 ```
-🎯 Kesimpulan Perjalanan Belajar (Pertemuan 1–7)
+## 🎯 Kesimpulan Perjalanan Belajar (Pertemuan 1–7)
+
 Rangkaian 7 pertemuan ini memberikan fondasi _pipeline_ Data Science yang sangat kuat bagi saya. Proses memahami data bukan sekadar melatih algoritma, melainkan membangun kepekaan saat melakukan EDA, ketelitian dalam membersihkan data (_cleaning_), serta kemampuan menyajikan informasi secara visual lewat dashboard.
 
 Pemahaman _end-to-end_ ini menjadi modal penting bagi saya untuk melangkah ke tahap pengembangan teknologi yang lebih kompleks, seperti rekayasa fitur (_feature_ _engineering_), integrasi model kecerdasan buatan (AI) yang cerdas, dan penerapannya ke dalam ekosistem aplikasi modern berbasis .NET.
