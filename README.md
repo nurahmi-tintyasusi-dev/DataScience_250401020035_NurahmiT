@@ -44,8 +44,32 @@ Dalam proses belajar dan penyelesaian proyek, saya aktif mengeksplorasi dan mema
 
 ## Panduan Menjalankan Notebook Secara Lokal
 
-1. **Clone Repositori:**
 ```bash
-   git clone [https://github.com/username/repository-name.git](https://github.com/username/repository-name.git)
-   cd repository-name
+   git clone [https://github.com/nurahmi-tintyasusi-dev/DataScience_250401020035_NurahmiT.git](https://github.com/nurahmi-tintyasusi-dev/DataScience_250401020035_NurahmiT.git)
+   cd DataScience_250401020035_NurahmiT
+
+# Install dependencies
+pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+
+# Jalankan Jupyter
+jupyter notebook
+```
+🎯 Kesimpulan Perjalanan Belajar (Pertemuan 1–7)
+Rangkaian 7 pertemuan ini memberikan fondasi _pipeline_ Data Science yang sangat kuat bagi saya. Proses memahami data bukan sekadar melatih algoritma, melainkan membangun kepekaan saat melakukan EDA, ketelitian dalam membersihkan data (_cleaning_), serta kemampuan menyajikan informasi secara visual lewat dashboard.
+
+Pemahaman _end-to-end_ ini menjadi modal penting bagi saya untuk melangkah ke tahap pengembangan teknologi yang lebih kompleks, seperti rekayasa fitur (_feature_ _engineering_), integrasi model kecerdasan buatan (AI) yang cerdas, dan penerapannya ke dalam ekosistem aplikasi modern berbasis .NET.
+
+---
+
+<div align="center">
+   
+Repository ini dibuat untuk memenuhi Ujian Tengah Semester (UTS)
+
+Mata Kuliah Data Science — Kelas IF401
+
+Program Studi PJJ Informatika
+
+</div>
+
+
 
