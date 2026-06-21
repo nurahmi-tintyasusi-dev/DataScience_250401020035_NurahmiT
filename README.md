@@ -64,7 +64,7 @@ Pemahaman _end-to-end_ ini menjadi modal penting bagi saya untuk melangkah ke ta
 
 <div align="center">
    
-Repository ini dibuat untuk memenuhi Ujian Tengah Semester (UTS)
+_Repository ini dibuat untuk memenuhi Ujian Tengah Semester (UTS)_
 
 Mata Kuliah Data Science — Kelas IF401
 
