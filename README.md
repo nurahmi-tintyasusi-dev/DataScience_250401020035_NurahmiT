@@ -27,12 +27,12 @@ Halo, saya Nurahmi Tintyasusi,biasa dipanggil Rahmi Saya belajar Data Science un
 | No | Topik Praktikum |  Notebook |
 |:--:|:----------------|:---------:|
 | 1 | Pengantar Data Science | [📓 Pertemuan 1](./Pertemuan1_Nurahmi_Tintyasusi_250401020035.ipynb) | 
-| 2 | Struktur Data Python, NumPy & Pandas| [📓 Pertemuan 2](.Pertemuan2_Nurahmi_Tintyasusi_250401020035.ipynb) |
-| 3 | Data Cleaning | [📓 Pertemuan 3](.Pertemuan3_Nurahmi_Tintyasusi_250401020035.ipynb) | 
+| 2 | Struktur Data Python, NumPy & Pandas| [📓 Pertemuan 2](./Pertemuan2_Nurahmi_Tintyasusi_250401020035.ipynb) |
+| 3 | Data Cleaning | [📓 Pertemuan 3](./Pertemuan3_Nurahmi_Tintyasusi_250401020035.ipynb) | 
 | 4 | Statistika Dasar & Analisis Data | [📓 Pertemuan 4](./Pertemuan4_Nurahmi_Tintyasusi_250401020035.ipynb) | 
 | 5 | Visualisasi Data  | [📓 Pertemuan 5](./Pertemuan5_Nurahmi_Tintyasusi_250401020035.ipynb) |
-| 6 | Persiapan Data| [📓 Pertemuan 6](.Pertemuan6_Nurahmi_Tintyasusi_250401020035.ipynb) | 
-| 7 | Pengantar Regresi Linear & Evaluasi Model | [📓 Pertemuan 7](.Pertemuan7_Nurahmi_Tintyasusi_250401020035.ipynb) | 
+| 6 | Persiapan Data| [📓 Pertemuan 6](./Pertemuan6_Nurahmi_Tintyasusi_250401020035.ipynb) | 
+| 7 | Pengantar Regresi Linear & Evaluasi Model | [📓 Pertemuan 7](./Pertemuan7_Nurahmi_Tintyasusi_250401020035.ipynb) | 
 
 ## Tools, Library & Ekosistem Teknologi
 
