@@ -33,6 +33,11 @@ Halo, saya Nurahmi Tintyasusi biasa dipanggil Rahmi. Saya belajar Data Science u
 | 5 | Visualisasi Data  | [📓 Pertemuan 5](./Pertemuan5_Nurahmi_Tintyasusi_250401020035.ipynb) |
 | 6 | Persiapan Data| [📓 Pertemuan 6](./Pertemuan6_Nurahmi_Tintyasusi_250401020035.ipynb) | 
 | 7 | Pengantar Regresi Linear & Evaluasi Model | [📓 Pertemuan 7](./Pertemuan7_Nurahmi_Tintyasusi_250401020035.ipynb) | 
+| 8 | Algoritma Klasifikasi (Bagian 1) | [📓 Pertemuan 9](./Pertemuan9_Nurahmi_Tintyasusi_250401020035.ipynb) | 
+| 9 | Algoritma Klasifikasi (Bagian 2) | [📓 Pertemuan 10](./Pertemuan109_Nurahmi_Tintyasusi_250401020035.ipynb) | 
+| 10 | Unsupervised Learning: Clustering (K-Means & Hierarchical)| [📓 Pertemuan 11](./Pertemuan11_Nurahmi_Tintyasusi_250401020035.ipynb) | 
+| 11 | Asosiasi Data & Sistem Rekomendasi Dasar | [📓 Pertemuan 12](./Pertemuan12_Nurahmi_Tintyasusi_250401020035.ipynb) | 
+| 12 | Pengantar Topik Lanjutan:Deep Learning & NLP Dasar| [📓 Pertemuan 13](./Pertemuan13_Nurahmi_Tintyasusi_250401020035.ipynb) | 
 
 ## Tools, Library & Ekosistem Teknologi
 
@@ -54,17 +59,21 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyter
 # Jalankan Jupyter
 jupyter notebook
 ```
-## 🎯 Kesimpulan Perjalanan Belajar (Pertemuan 1–7)
+## 🎯 Kesimpulan Perjalanan Belajar (Pertemuan 1–13)
 
-Rangkaian 7 pertemuan ini memberikan fondasi _pipeline_ Data Science yang sangat kuat bagi saya. Proses memahami data bukan sekadar melatih algoritma, melainkan membangun kepekaan saat melakukan EDA, ketelitian dalam membersihkan data (_cleaning_), serta kemampuan menyajikan informasi secara visual lewat dashboard.
+Selama 13 pertemuan, saya mempelajari Data Science mulai dari dasar penggunaan Python, pengolahan data, EDA, dan visualisasi hingga membangun model machine learning dan deep learning.
 
-Pemahaman _end-to-end_ ini menjadi modal penting bagi saya untuk melangkah ke tahap pengembangan teknologi yang lebih kompleks, seperti rekayasa fitur (_feature_ _engineering_), integrasi model kecerdasan buatan (AI) yang cerdas, dan penerapannya ke dalam ekosistem aplikasi modern berbasis .NET.
+Saya mempelajari berbagai algoritma, seperti KNN, Decision Tree, Regresi Linear, Logistic Regression, Random Forest, Naive Bayes, K-Means, dan Hierarchical Clustering. Saya juga belajar Association Rules, sistem rekomendasi, neural network, dan analisis sentimen menggunakan TF-IDF.
+
+Hal terpenting yang saya pelajari adalah keberhasilan model tidak hanya ditentukan oleh algoritma, tetapi juga oleh kualitas data, preprocessing, visualisasi, dan pemilihan metrik evaluasi yang tepat. Setiap metode memiliki kelebihan dan harus digunakan sesuai dengan jenis permasalahannya.
+
+Setelah mengikuti mata kuliah ini, saya lebih memahami proses Data Science secara keseluruhan dan mampu membangun model sederhana secara mandiri. 
 
 ---
 
 <div align="center">
    
-_Repository ini dibuat untuk memenuhi Ujian Tengah Semester (UTS)_
+_Repository ini dibuat untuk memenuhi Ujian Akhir Semester (UAS)_
 
 Mata Kuliah Data Science — Kelas IF401
 
